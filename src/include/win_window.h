@@ -1,6 +1,6 @@
 #pragma once
 
-#include <include/Board.h>
+#include <include/board.h>
 
 #include <fstream>
 #include <string>
